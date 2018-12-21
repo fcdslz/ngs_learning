@@ -53,7 +53,7 @@ https://mp.weixin.qq.com/s/qOZIK_6-7EHcPi6aAJUKTg
 
 1. 先用英语专业词汇的关键词检索，以R进行p值校正为例，使用关键词为R p value Correction填入google检索。
 
-2. 在结果列表找一下，发现前几个链接好像都说了怎么算 ，挨个点开看看，发现网页http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual22.html上有明确的办法R语言进行p值校正的示例。这就找到了答案。
+2. 在结果列表找一下，发现前几个链接好像都说了怎么算 ，挨个点开看看，发现网页http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual22.html 上有明确的办法R语言进行p值校正的示例。这就找到了答案。
 
 3. 有时候找不到问题解决办法，这时要注意一下，是不是其他人描述这个问题用的英语词汇跟自己不一样，更换其他人的描述词汇再试一下，往往会搜到更多的答案。
 
